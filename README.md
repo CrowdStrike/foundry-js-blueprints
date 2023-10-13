@@ -1,2 +1,3 @@
-# foundry-js-blueprints
-Blueprints for foundry-js apps
+# foundry-js-blueprint-javascript
+
+Javascript blueprint for Foundry UI application
